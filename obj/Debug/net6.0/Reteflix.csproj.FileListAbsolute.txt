@@ -1,0 +1,481 @@
+C:\Test Automation\Reteflix\bin\Debug\net6.0\testhost.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\LivingDoc.Dtos.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\testhost.exe
+C:\Test Automation\Reteflix\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Test Automation\Reteflix\bin\Debug\net6.0\nunit.engine.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Test Automation\Reteflix\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Test Automation\Reteflix\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Reteflix.deps.json
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Reteflix.runtimeconfig.json
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Reteflix.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Reteflix.pdb
+C:\Test Automation\Reteflix\bin\Debug\net6.0\BoDi.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\FluentAssertions.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Gherkin.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\nunit.framework.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\WebDriver.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Test Automation\Reteflix\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Test Automation\Reteflix\obj\Debug\net6.0\Reteflix.csproj.AssemblyReference.cache
+C:\Test Automation\Reteflix\obj\Debug\net6.0\Reteflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test Automation\Reteflix\obj\Debug\net6.0\Reteflix.AssemblyInfoInputs.cache
+C:\Test Automation\Reteflix\obj\Debug\net6.0\Reteflix.AssemblyInfo.cs
+C:\Test Automation\Reteflix\obj\Debug\net6.0\Reteflix.csproj.CoreCompileInputs.cache
+C:\Test Automation\Reteflix\obj\Debug\net6.0\Reteflix.csproj.CopyComplete
+C:\Test Automation\Reteflix\obj\Debug\net6.0\Reteflix.dll
+C:\Test Automation\Reteflix\obj\Debug\net6.0\refint\Reteflix.dll
+C:\Test Automation\Reteflix\obj\Debug\net6.0\Reteflix.pdb
+C:\Test Automation\Reteflix\obj\Debug\net6.0\Reteflix.genruntimeconfig.cache
+C:\Test Automation\Reteflix\obj\Debug\net6.0\ref\Reteflix.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\testhost.exe
+C:\Automation\Reteflix\bin\Debug\net6.0\testhost.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\LivingDoc.Dtos.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Automation\Reteflix\bin\Debug\net6.0\nunit.engine.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Automation\Reteflix\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Automation\Reteflix\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Automation\Reteflix\bin\Debug\net6.0\Reteflix.deps.json
+C:\Automation\Reteflix\bin\Debug\net6.0\Reteflix.runtimeconfig.json
+C:\Automation\Reteflix\bin\Debug\net6.0\Reteflix.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Reteflix.pdb
+C:\Automation\Reteflix\bin\Debug\net6.0\BoDi.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\FluentAssertions.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Gherkin.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\nunit.framework.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\WebDriver.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\Reteflix\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Automation\Reteflix\obj\Debug\net6.0\Reteflix.csproj.AssemblyReference.cache
+C:\Automation\Reteflix\obj\Debug\net6.0\Reteflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation\Reteflix\obj\Debug\net6.0\Reteflix.AssemblyInfoInputs.cache
+C:\Automation\Reteflix\obj\Debug\net6.0\Reteflix.AssemblyInfo.cs
+C:\Automation\Reteflix\obj\Debug\net6.0\Reteflix.csproj.CoreCompileInputs.cache
+C:\Automation\Reteflix\obj\Debug\net6.0\Reteflix.csproj.CopyComplete
+C:\Automation\Reteflix\obj\Debug\net6.0\Reteflix.dll
+C:\Automation\Reteflix\obj\Debug\net6.0\refint\Reteflix.dll
+C:\Automation\Reteflix\obj\Debug\net6.0\Reteflix.pdb
+C:\Automation\Reteflix\obj\Debug\net6.0\Reteflix.genruntimeconfig.cache
+C:\Automation\Reteflix\obj\Debug\net6.0\ref\Reteflix.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\testhost.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\LivingDoc.Dtos.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\testhost.exe
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\nunit.engine.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Reteflix.deps.json
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Reteflix.runtimeconfig.json
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Reteflix.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Reteflix.pdb
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\BoDi.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\FluentAssertions.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Gherkin.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\nunit.framework.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\WebDriver.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Automation\ReteflixProjectAzure\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Automation\ReteflixProjectAzure\obj\Debug\net6.0\Reteflix.csproj.AssemblyReference.cache
+C:\Automation\ReteflixProjectAzure\obj\Debug\net6.0\Reteflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation\ReteflixProjectAzure\obj\Debug\net6.0\Reteflix.AssemblyInfoInputs.cache
+C:\Automation\ReteflixProjectAzure\obj\Debug\net6.0\Reteflix.AssemblyInfo.cs
+C:\Automation\ReteflixProjectAzure\obj\Debug\net6.0\Reteflix.csproj.CoreCompileInputs.cache
+C:\Automation\ReteflixProjectAzure\obj\Debug\net6.0\Reteflix.csproj.CopyComplete
+C:\Automation\ReteflixProjectAzure\obj\Debug\net6.0\Reteflix.dll
+C:\Automation\ReteflixProjectAzure\obj\Debug\net6.0\refint\Reteflix.dll
+C:\Automation\ReteflixProjectAzure\obj\Debug\net6.0\Reteflix.pdb
+C:\Automation\ReteflixProjectAzure\obj\Debug\net6.0\Reteflix.genruntimeconfig.cache
+C:\Automation\ReteflixProjectAzure\obj\Debug\net6.0\ref\Reteflix.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\testhost.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\LivingDoc.Dtos.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\testhost.exe
+C:\Automation\ReteflixProject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Automation\ReteflixProject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Automation\ReteflixProject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Automation\ReteflixProject\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Automation\ReteflixProject\bin\Debug\net6.0\nunit.engine.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Reteflix.deps.json
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Reteflix.runtimeconfig.json
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Reteflix.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Reteflix.pdb
+C:\Automation\ReteflixProject\bin\Debug\net6.0\BoDi.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\FluentAssertions.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Gherkin.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\nunit.framework.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\WebDriver.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Automation\ReteflixProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.csproj.AssemblyReference.cache
+C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.AssemblyInfoInputs.cache
+C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.AssemblyInfo.cs
+C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.csproj.CoreCompileInputs.cache
+C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.csproj.CopyComplete
+C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.dll
+C:\Automation\ReteflixProject\obj\Debug\net6.0\refint\Reteflix.dll
+C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.pdb
+C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.genruntimeconfig.cache
+C:\Automation\ReteflixProject\obj\Debug\net6.0\ref\Reteflix.dll
+C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.sourcelink.json
