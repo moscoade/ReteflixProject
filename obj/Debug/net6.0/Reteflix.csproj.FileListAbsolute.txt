@@ -472,10 +472,10 @@ C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.GeneratedMSBuildEditorCo
 C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.AssemblyInfoInputs.cache
 C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.AssemblyInfo.cs
 C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.csproj.CoreCompileInputs.cache
+C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.sourcelink.json
 C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.csproj.CopyComplete
 C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.dll
 C:\Automation\ReteflixProject\obj\Debug\net6.0\refint\Reteflix.dll
 C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.pdb
 C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.genruntimeconfig.cache
 C:\Automation\ReteflixProject\obj\Debug\net6.0\ref\Reteflix.dll
-C:\Automation\ReteflixProject\obj\Debug\net6.0\Reteflix.sourcelink.json
